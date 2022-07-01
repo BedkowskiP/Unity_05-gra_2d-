@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{B87D3DEE-02EB-2620-CACA-CD0595363B07}</ProjectGuid>
+    <ProjectGuid>{39A782EE-86CA-2EA7-9491-69F1B34DFCB9}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>AstarPathfindingProject</AssemblyName>
@@ -828,11 +828,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{19E06600-CE5B-9B04-53CF-29A0CCE4CFD2}</Project>
+      <Project>{4091FE0D-E01C-6B86-7242-EEFEF144676B}</Project>
       <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{2AE36427-ED46-5116-A6F3-41D054B3B97B}</Project>
+      <Project>{E3AD3F42-C7E3-8E01-0EDA-3730A9F39B80}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
   </ItemGroup>

@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{F8F41340-2BA7-AE49-42AB-675200FFF4E5}</ProjectGuid>
+    <ProjectGuid>{278F3037-C560-EA93-681E-9889028027C2}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.CollabProxy.Editor</AssemblyName>
@@ -1092,27 +1092,27 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.PlasticSCM.Editor.csproj">
-      <Project>{13319C59-9DAB-ACCA-C8CB-5CA5DE18B49F}</Project>
+      <Project>{B422CBD4-C790-6ED4-EC13-6015E6FF4D0E}</Project>
       <Name>Unity.PlasticSCM.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Services.Core.Editor.csproj">
-      <Project>{E148DB9B-E314-474E-DE19-754496BAAF10}</Project>
+      <Project>{B2E8BD7E-D93A-E3B3-7051-E9DF391EF599}</Project>
       <Name>Unity.Services.Core.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{19E06600-CE5B-9B04-53CF-29A0CCE4CFD2}</Project>
+      <Project>{4091FE0D-E01C-6B86-7242-EEFEF144676B}</Project>
       <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{2AE36427-ED46-5116-A6F3-41D054B3B97B}</Project>
+      <Project>{E3AD3F42-C7E3-8E01-0EDA-3730A9F39B80}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.TestRunner.csproj">
-      <Project>{AA03C439-6E86-6A04-A345-A4108C305C5B}</Project>
+      <Project>{FB889BF1-E363-0D7E-ECD3-EDB92CBEA369}</Project>
       <Name>UnityEngine.TestRunner</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.TestRunner.csproj">
-      <Project>{E5678664-7D15-B0A5-C690-C54E41943411}</Project>
+      <Project>{DA8EFB94-C4AB-013A-87F7-88CAFBE38AD6}</Project>
       <Name>UnityEditor.TestRunner</Name>
     </ProjectReference>
   </ItemGroup>
